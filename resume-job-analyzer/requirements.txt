@@ -1,0 +1,44 @@
+# Django and REST Framework
+Django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+
+# # Database
+# psycopg2-binary==2.9.7
+
+# LangChain and AI
+langchain
+langchain-openai
+openai
+tiktoken
+
+# Text Processing and Resume Parsing
+PyPDF2==3.0.1
+python-docx==0.8.11
+pdfplumber==0.9.0
+pyresparser==1.0.6
+nltk
+spacy
+
+# Machine Learning and Embeddings
+scikit-learn
+numpy
+pandas
+sentence-transformers
+
+# Vector Database (optional)
+chromadb
+faiss-cpu
+
+# Environment and Configuration
+python-decouple==3.8
+python-dotenv==1.0.0
+
+# Development and Testing
+pytest
+pytest-django
+black
+flake8
+# Production
+gunicorn
+whitenoise
