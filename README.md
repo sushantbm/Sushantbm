@@ -18,12 +18,13 @@ I am a AIML Data Scientist with over four years of experience leveraging machine
 
 ## Selected Projects:
 
-* [RAG Based Chatbot](https://github.com/sushantbm/Profile-And-Projects/tree/8d548e5aeaadc30ead0f741c73160f07bc728c50/RAG-AI-CHATBOT) Developed an intelligent RAG-based chatbot using LangChain and OpenAI to deliver context-aware, document-grounded responses.
-* [Time Series: Sales and Demand Forecasting](https://github.com/sushantbm/Profile-And-Projects/tree/8d548e5aeaadc30ead0f741c73160f07bc728c50/TS-Book-Sales-Forecasting): Developed time series forecasting models using ARIMA, LSTM, and XGBoost to predict weekly book sales patterns and optimize inventory management.
-* [Anomaly Detection: Ship Engine](https://github.com/sushantbm/Profile-And-Projects/tree/8d548e5aeaadc30ead0f741c73160f07bc728c50/Anomaly-Detection-Ship-engine)): Implemented unsupervised machine learning algorithms to identify abnormal engine performance patterns, enabling proactive maintenance strategies.
-* [K Means Clusering - Customer Segmentation](https://github.com/sushantbm/Profile-And-Projects/tree/8d548e5aeaadc30ead0f741c73160f07bc728c50/Clustering-customer-segmentation) Applied K-Means clustering and Principal Component Analysis (PCA) to identify distinct customer segments and optimize targeted marketing strategies.
-* [Applying Supervised to Predict Student Dropout](https://github.com/sushantbm/Profile-And-Projects/tree/8d548e5aeaadc30ead0f741c73160f07bc728c50/supervised-prediction-student-dropout): Developed predictive models using XGBoost and neural networks to identify at-risk students and enable early intervention programs.
-* [Applying NLP for Topic Modelling](https://github.com/sushantbm/Profile-And-Projects/tree/8d548e5aeaadc30ead0f741c73160f07bc728c50/NLP-PureGym-reviews): Conducted comprehensive sentiment analysis and topic modeling on customer reviews using Falcon-7B, BERTopic, and LDA to extract actionable business insights.
+* [RAG Based Chatbot](https://github.com/sushantbm/Sushantbm/tree/096186dc0b33dddbed81e9f77bd8a69b7617ab00/RAG-AI-CHATBOT) Developed an intelligent RAG-based chatbot using LangChain and OpenAI to deliver context-aware, document-grounded responses.
+* [Time Series: Sales and Demand Forecasting](https://github.com/sushantbm/Sushantbm/tree/096186dc0b33dddbed81e9f77bd8a69b7617ab00/TS-Book-Sales-Forecasting): Developed time series forecasting models using ARIMA, LSTM, and XGBoost to predict weekly book sales patterns and optimize inventory management.
+* [Anomaly Detection: Ship Engine](https://github.com/sushantbm/Sushantbm/tree/096186dc0b33dddbed81e9f77bd8a69b7617ab00/Anomaly-Detection-Ship-engine)): Implemented unsupervised machine learning algorithms to identify abnormal engine performance patterns, enabling proactive maintenance strategies.
+* [K Means Clusering - Customer Segmentation](https://github.com/sushantbm/Sushantbm/tree/096186dc0b33dddbed81e9f77bd8a69b7617ab00/Clustering-customer-segmentation) Applied K-Means clustering and Principal Component Analysis (PCA) to identify distinct customer segments and optimize targeted marketing strategies.
+* [Applying Supervised to Predict Student Dropout](https://github.com/sushantbm/Sushantbm/tree/096186dc0b33dddbed81e9f77bd8a69b7617ab00/supervised-prediction-student-dropout): Developed predictive models using XGBoost and neural networks to identify at-risk students and enable early intervention programs.
+* [Applying NLP for Topic Modelling](https://github.com/sushantbm/Sushantbm/tree/096186dc0b33dddbed81e9f77bd8a69b7617ab00/NLP-PureGym-reviews): Conducted comprehensive sentiment analysis and topic modeling on customer reviews using Falcon-7B, BERTopic, and LDA to extract actionable business insights.
+* [Resume Analyser with Django, React and Langchain](https://github.com/sushantbm/Sushantbm/tree/096186dc0b33dddbed81e9f77bd8a69b7617ab00/resume-job-analyzer): Developed Resume Job Analyser using Django, React, and Langchain framework
 
 
 
