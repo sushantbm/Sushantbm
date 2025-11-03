@@ -1,6 +1,6 @@
 ## Professional Summary
 
-I am a AIML Data Scientist with over four years of experience leveraging machine learning, natural language processing, and advanced analytics to deliver data-driven solutions that address complex business challenges. With a strong foundation in technical background, I specialize in Agentic AI, time series forecasting, predictive modeling, and NLP techniques including BERTopic, Hugging Face Transformers, and large language models. My approach combines technical rigor with strategic thinking to uncover meaningful patterns in data and translate them into actionable insights that empower stakeholders and inform critical business decisions.
+I am a AIML Data Scientist with over 5 years of experience leveraging machine learning, natural language processing, and advanced analytics to deliver data-driven solutions that address complex business challenges. With a strong foundation in technical background, I specialize in Agentic AI, time series forecasting, predictive modeling, and NLP techniques including BERTopic, Hugging Face Transformers, and large language models. My approach combines technical rigor with strategic thinking to uncover meaningful patterns in data and translate them into actionable insights that empower stakeholders and inform critical business decisions.
 
 
 
